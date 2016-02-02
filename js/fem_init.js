@@ -12,7 +12,7 @@ skel.init({
 		gutters: 50
 	},
 	breakpoints: {
-		'mobile': {
+/*		'mobile': {
 			range: '-480',
 			lockViewport: true,
 			containers: 'fluid',
@@ -20,7 +20,7 @@ skel.init({
 				collapse: true,
 				gutters: 10
 			}
-		},
+		},*/
 		'desktop': {
 			range: '481-',
 			containers: 1200
